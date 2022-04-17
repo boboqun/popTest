@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">popTest</string>
+    <string name="rv_net_error">网络异常</string>
+    <string name="rv_net_no_data">暂无数据</string>
+    <string name="report_new_case">上报案件</string>
+    <string name="close_report_page">关闭上报案件页面</string>
+</resources>
